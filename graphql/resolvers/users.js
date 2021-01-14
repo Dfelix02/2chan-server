@@ -16,7 +16,7 @@ function generateToken(user) {
       email: user.email,
       username: user.username,
     },
-    progress.env.KEY.SECRET_KEY,
+    progress.env.SECRET_KEY,
     { expiresIn: "1h" }
   );
 }
