@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "node index",
-    "start": "node index"
+    "prestart": "next build",
+    "start": "next start -p ${PORT}"
   },
   "keywords": [],
   "author": "",
