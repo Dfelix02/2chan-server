@@ -15,8 +15,6 @@ Apollo
   <br>
   mongoDB
   <br>
-  
-
 up and running using Heroku.
   <br>
 
