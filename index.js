@@ -16,7 +16,7 @@ const server = new ApolloServer({
 });
 
 mongoose
-  .connect(process.env.SECRET_KEY, {
+  .connect(process.env.MONGODB, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
