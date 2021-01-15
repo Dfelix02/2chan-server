@@ -14,7 +14,7 @@ Apollo
   mongoose
   <br>
   mongoDB
-  <br>
+  <hr/>
 up and running using Heroku.
   <br>
 
