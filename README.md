@@ -18,4 +18,4 @@ up and running using Heroku.
   <br>
 
 
-here is the link to the website https://brave-goldwasser-0a9823.netlify.app/
+here is the link to the <a href="https://2chan.netlify.app/">website<a/>
